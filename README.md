@@ -9,22 +9,6 @@ A comprehensive enterprise network infrastructure simulation and architecture de
 
 ---
 
-## 📸 Network Topology & Simulation Screenshots
-
-<div align="center">
-  <img src="docs/screenshots/network_topology_diagram.png" alt="3-Tier Hierarchical Network Topology" width="90%" />
-  <p><i>Figure 1: Full 3-Tier Hierarchical Network Topology (Core, Distribution, and Access layers) in Cisco Packet Tracer.</i></p>
-</div>
-
-<div align="center">
-  <img src="docs/screenshots/packet_tracer_simulation.png" alt="Packet Tracer Simulation & OSPF Routing Table" width="90%" />
-  <p><i>Figure 2: Active simulation verifying inter-VLAN routing, OSPF neighbor states, and NAT/PAT translation.</i></p>
-</div>
-
-> **Tip:** Add your Packet Tracer screenshots to `docs/screenshots/network_topology_diagram.png` and `docs/screenshots/packet_tracer_simulation.png`.
-
----
-
 ## 🏛️ Network Hierarchy
 
 Built using Cisco's industry-standard **3-Tier Hierarchical Model**:
